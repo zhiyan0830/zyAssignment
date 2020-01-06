@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#C3C5C5</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- Main Background Color -->
+    <color name="greyBg">#EBE8E8</color>
+
+    <!-- For Restaurant Buttons -->
+    <color name="blueBtn">#4C98CF</color>
+    <color name="greenBtn">#5CB85C</color>
+    <color name="yellowBtn">#5CB85C</color>
+    <color name="orangeBtn">#FEB607</color>
+    <color name="white">#ffffff</color>
+    <color name="greyBack">#fafafa</color>
+</resources>
